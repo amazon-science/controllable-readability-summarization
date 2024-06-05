@@ -1,6 +1,6 @@
 # Generating Summaries with Controllable Readability Levels (EMNLP 2023)
 
-This repository contains the code for the paper "[Generating Summaries with Controllable Readability Levels](https://arxiv.org/pdf/2204.06508.pdf)". 
+This repository contains the code for the paper "[Generating Summaries with Controllable Readability Levels](https://arxiv.org/pdf/2310.10623)". 
 
 We developed three text generation techniques for controlling readability:
 
